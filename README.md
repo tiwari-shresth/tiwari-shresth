@@ -10,7 +10,7 @@
 - 🧠 Enthusiastic about solving real-world problems using data and predictive models
 - 💻 Working with Python, R, Scikit-Learn, Pandas, and cloud tools like Azure
 - 📊 Building ML projects, performing statistical analysis, and visualizing insights using libraries like Matplotlib, Seaborn, and Plotly
-- 📫 Reach me at: **shresth.tiwari@example.com**
+- 📫 Reach me at: **tiwarishresth419@gmail.com**
 
 ---
 
@@ -45,10 +45,10 @@
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="www.linkedin.com/in/shresth-tiwari-37b417300" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:shresth.tiwari@example.com">
+  <a href="mailto:tiwarishresth419@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
