@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Shresth Tiwari</h1>
-<h3 align="center">Data Science and Machine Learning</h3>
-
 ---
 
 ### 👨‍💻 About Me
